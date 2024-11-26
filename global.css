@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    justify-content: center;
+    display: flex;
+    gap: 5rem;
+    align-items: center;
+    background-color: black;
+}
+
+body img {
+    width: auto;
+    height: 20rem;
+}
+
+
+.cards {
+    justify-content: center;
+    display: flex;
+    gap: 5rem;
+    align-items: center;
+    margin-top: 10rem;
+}
